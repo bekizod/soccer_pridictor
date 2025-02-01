@@ -109,7 +109,7 @@ const FootballPrediction = () => {
       <div className="flex flex-row gap-6 w-full  justify-center">
         <div>
           {" "}
-          <div className="  bg-white/30 backdrop-blur-xl shadow-2xl rounded-2xl p-8 border border-white/30">
+          <div className="  bg-white/50 backdrop-blur-sm shadow-2xl rounded-2xl p-8 border border-white/30">
             <GradientText
               colors={["#40ffaa", "#4079ff", "#40ffaa", "#4079ff", "#40ffaa"]}
               animationSpeed={3}
