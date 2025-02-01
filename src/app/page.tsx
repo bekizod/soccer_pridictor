@@ -116,7 +116,7 @@ const FootballPrediction = () => {
               showBorder={false}
               className="custom-class font-bold text-3xl py-2"
             >
-              Match Stats
+              Match Stat
             </GradientText>
 
             {/* Home and Away Team Container */}
