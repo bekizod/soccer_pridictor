@@ -107,10 +107,10 @@ const FootballPrediction = () => {
       </h1> */}
 
       <div className="bg-red-100 border border-red-300 text-red-700 px-4 py-3 rounded-md max-w-md mx-auto mt-4 text-center">
-        <strong className="font-bold">Notice:</strong> This site is hosted on a{" "}
-        <b className="font-semibold">Netlify & Render Free Plan</b>, which uses
-        limited resources (1 CPU). As a result, the initial load or response
-        time may take longer than usual due to serverless rendering. We
+        <div className="font-bold">Notice:</div> This site is hosted on a{" "}
+        <div className="font-semibold">Netlify & Render Free Plan</div>, which
+        uses limited resources (1 CPU). As a result, the initial load or
+        response time may take longer than usual due to serverless rendering. We
         appreciate your patience!
         <div>@BekiZodcancer</div>
       </div>
