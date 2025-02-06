@@ -193,7 +193,7 @@ const FootballPrediction = () => {
                   </div>
                   <div>
                     <label className="block text-sm text-gray-900">
-                      Goal Count
+                      Previous Match Goal Count
                     </label>
                     <input
                       type="number"
@@ -296,7 +296,7 @@ const FootballPrediction = () => {
                   </div>
                   <div>
                     <label className="block text-sm text-gray-900">
-                      Goal Count
+                      Previous Match Goal Count
                     </label>
                     <input
                       type="number"
