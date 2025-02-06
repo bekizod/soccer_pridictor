@@ -114,6 +114,16 @@ const FootballPrediction = () => {
           We appreciate your patience!
           <div>@BekiZodcancer</div>
         </div>
+
+        <div
+          className="flex w-1/2 flex-col items-center justify-center  bg-transparent p-6"
+          // style={{
+          //   backgroundImage: "url('/icon.png')",
+          //   backgroundSize: "cover",
+          //   backgroundPosition: "center",
+          //   backgroundRepeat: "no-repeat",
+          // }}
+        ></div>
       </div>
 
       <div className="flex flex-row gap-6 w-full  justify-center">
