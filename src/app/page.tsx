@@ -105,14 +105,15 @@ const FootballPrediction = () => {
       {/* <h1 className="text-3xl font-bold text-blue-600 mb-8">
         Football Match Prediction
       </h1> */}
-
-      <div className="flex justify-start w-1/2 bg-red-100 border border-red-300 text-red-700 px-4 py-3 rounded-md max-w-md mx-auto mt-4 text-center">
-        <div className="font-bold">Notice:</div> This site is hosted on a{" "}
-        <div className="font-semibold">Netlify & Render Free Plan</div>, which
-        uses limited resources (1 CPU). As a result, the initial load or
-        response time may take longer than usual due to serverless rendering. We
-        appreciate your patience!
-        <div>@BekiZodcancer</div>
+      <div className="flex flex-row gap-6 w-full  justify-center">
+        <div className="bg-red-100 border border-red-300 text-red-700 px-4 py-3 rounded-md max-w-md mx-auto mt-4 text-center">
+          <div className="font-bold">Notice:</div> This site is hosted on a{" "}
+          <div className="font-semibold">Netlify & Render Free Plan</div>, which
+          uses limited resources (1 CPU). As a result, the initial load or
+          response time may take longer than usual due to serverless rendering.
+          We appreciate your patience!
+          <div>@BekiZodcancer</div>
+        </div>
       </div>
 
       <div className="flex flex-row gap-6 w-full  justify-center">
